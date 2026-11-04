@@ -123,3 +123,13 @@ On the 60-sample labelled set, the pipeline reaches 0.94 precision and 0.91 reca
 MIT
 
 Builds on [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) (MIT).
+
+## Screenshots
+
+![Guardrail Router: README](screenshots/1.png)
+
+![Guardrail Router: guardrail_router/app.py](screenshots/2.png)
+
+![Guardrail Router: guardrail_router/cli.py](screenshots/3.png)
+
+![Guardrail Router: data/samples.jsonl](screenshots/4.png)
